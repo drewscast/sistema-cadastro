@@ -1,6 +1,7 @@
 # sistema-cadastro
 
+## rodando o arquivo
 
 ```
-Aoba
+node app.js
 ```
